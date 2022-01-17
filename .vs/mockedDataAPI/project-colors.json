@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d38623fe-db06-4369-98b9-b59ceaa59099": {
+      "ProjectGuid": "d38623fe-db06-4369-98b9-b59ceaa59099",
+      "DisplayName": "mockedDataAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

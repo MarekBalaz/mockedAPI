@@ -1,0 +1,20 @@
+﻿[ {
+  "symbol" : "MSFT",
+  "name" : "Microsoft",
+  "sector" : "Technology",
+  "subSector" : "Communication Services",
+  "headQuarter" : "Santa Monica, CALIFORNIA",
+  "dateFirstAdded" : null,
+  "cik" : "0000718877",
+  "founded" : "1983-06-10"
+},
+{
+  "symbol" : "AAPL",
+  "name" : "Apple",
+  "sector" : "Technology",
+  "subSector" : "Technology",
+  "headQuarter" : "San Jose, CALIFORNIA",
+  "dateFirstAdded" : null,
+  "cik" : "0000796343",
+  "founded" : "1986-01-08"
+}]
